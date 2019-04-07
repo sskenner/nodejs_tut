@@ -1,37 +1,45 @@
 const fs = require('fs');
-// // create a file
-// fs.writeFile('example.txt',"this is an ex.",(err)=>{
+
+// fs.mkdir('tutorial',(err)=>{
 //     if(err)
 //         console.log(err);
 //     else{
-//         console.log('file created');
-//         fs.readFile('example.txt','utf8',(err,file)=>{
+//         fs.writeFile('./tutorial/example.txt','123',(err)=>{
 //             if(err)
 //                 console.log(err);
-//             else
-//                 console.log(file);
-//         })
+//             else{
+//                 console.log('created file');
+//             }
+//         });
 //     }
-        
 // });
 
-// fs.rename('example.txt','example2.txt',(err)=>{
+// fs.unlink('./tutorial/example.txt',(err)=>{
 //     if(err)
 //         console.log(err);
-//     else
-//         console.log('renamed file');
+//     else{
+//         fs.rmdir('tutorial',(err)=>{
+//             if(err)
+//                 console.log(err);
+//             else{
+//                 console.log('deleted folder');
+//             }
+//         });
+//     }
 // });
 
-// fs.appendFile('example2.txt','.. appended some data',(err)=>{
-//     if(err)
-//         console.log(err);
-//     else
-//         console.log('appended data');
-// });
-
-fs.unlink('example2.txt',(err)=>{
+fs.readdir('example',(err, files)=>{
     if(err)
         console.log(err);
-    else
-        console.log('deleted file');
+    else{
+        for(let file of files){
+            fs.unlink('./example/' + file,(err)=>{
+                if(err)
+                    console.log(err);
+                else{
+                    console.log('deleted file');
+                }
+            });
+        }
+    }
 });
