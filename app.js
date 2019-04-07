@@ -1,30 +1,37 @@
-const readline = require('readline');
-const rl = readline.createInterface({ input : process.stdin,
-                                     output : process.stdout });
-let num1 = Math.floor((Math.random() * 10) +1);
-let num2 = Math.floor((Math.random() * 10) +1);
-let answer = num1 + num2;
+const fs = require('fs');
+// // create a file
+// fs.writeFile('example.txt',"this is an ex.",(err)=>{
+//     if(err)
+//         console.log(err);
+//     else{
+//         console.log('file created');
+//         fs.readFile('example.txt','utf8',(err,file)=>{
+//             if(err)
+//                 console.log(err);
+//             else
+//                 console.log(file);
+//         })
+//     }
+        
+// });
 
-rl.question(`what is ${ num1 } + ${ num2 }?\n`,
-    (userInput)=>{ 
-        if(userInput.trim() == answer){
-            rl.close()
-        }
-        else{
-            rl.setPrompt('Incorrect.try again:\n');
-            rl.prompt();
-            rl.on('line',(userInput)=>{
-                if(userInput.trim() == answer){
-                    rl.close();
-                }
-                else{
-                    rl.setPrompt(`answer ${ userInput } incorrect. try again:\n`);
-                    rl.prompt();
-                }
-            })
-        }
-    }); 
+// fs.rename('example.txt','example2.txt',(err)=>{
+//     if(err)
+//         console.log(err);
+//     else
+//         console.log('renamed file');
+// });
 
-rl.on('close',()=>{
-    console.log('Die-is-it!!');
+// fs.appendFile('example2.txt','.. appended some data',(err)=>{
+//     if(err)
+//         console.log(err);
+//     else
+//         console.log('appended data');
+// });
+
+fs.unlink('example2.txt',(err)=>{
+    if(err)
+        console.log(err);
+    else
+        console.log('deleted file');
 });
