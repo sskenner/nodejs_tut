@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sskenner/nodejs_tut.git"
+  },
+  "author": "zero square",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sskenner/nodejs_tut/issues"
+  },
+  "homepage": "https://github.com/sskenner/nodejs_tut#readme"
+}
