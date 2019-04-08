@@ -1,7 +1,13 @@
-const fs = require('fs');
-const zlib = require('zlib');
-const gunzip = zlib.createGunzip();
-const readStream = fs.createReadStream('./example2.txt.gz');
-const writeStream = fs.createWriteStream('uncompressed.txt');
-readStream.pipe(gunzip).pipe(writeStream);
+const http = require('http');
+const server = http.createServer((req,res)=>{
+    if(req.url === '/'){
+        res.write('sup');
+        res.end();
+    }
+    else {
+        res.write('some other');
+        res.end();
+    }
+});
 
+server.listen('3000');
