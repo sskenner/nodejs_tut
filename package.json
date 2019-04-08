@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/sskenner/nodejs_tut/issues"
   },
-  "homepage": "https://github.com/sskenner/nodejs_tut#readme"
+  "homepage": "https://github.com/sskenner/nodejs_tut#readme",
+  "dependencies": {}
 }
