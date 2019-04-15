@@ -1,0 +1,943 @@
+{
+    "unique_image_url_prefixes": [],
+    "products_and_categories": {
+        "Accessories": [
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Schott® Leather Holster",
+                "id": 172297,
+                "image_url": "//assets.supremenewyork.com/171591/ca/XtBMHfLxiGM.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171591/rc/XtBMHfLxiGM.jpg",
+                "price": 39800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 13,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Sunglasses",
+                "id": 172302,
+                "image_url": "//assets.supremenewyork.com/171482/ca/IJqAzI_b9Rk.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171482/rc/IJqAzI_b9Rk.jpg",
+                "price": 38800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 14,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Belt",
+                "id": 172305,
+                "image_url": "//assets.supremenewyork.com/171475/ca/nxJ9DZNRGgc.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171475/rc/nxJ9DZNRGgc.jpg",
+                "price": 16800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 15,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Le Male",
+                "id": 172292,
+                "image_url": "//assets.supremenewyork.com/171495/ca/XkjHyc58W1o.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171495/rc/XkjHyc58W1o.jpg",
+                "price": 9000,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 16,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Libertad Gold Pendant ",
+                "id": 172121,
+                "image_url": "//assets.supremenewyork.com/169826/ca/DzdgNRrbWwc.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169826/rc/DzdgNRrbWwc.jpg",
+                "price": 39800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 49,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Hanes® Leopard Boxer Briefs (2 Pack)",
+                "id": 172150,
+                "image_url": "//assets.supremenewyork.com/169578/ca/ws0Br1RSynM.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169578/rc/ws0Br1RSynM.jpg",
+                "price": 2800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 50,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Hanes® Leopard Tagless Tees (2 Pack)",
+                "id": 172155,
+                "image_url": "//assets.supremenewyork.com/169705/ca/iu6FXnzXyQs.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169705/rc/iu6FXnzXyQs.jpg",
+                "price": 2800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 51,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Hanes® Tagless Tees (3 Pack)",
+                "id": 172127,
+                "image_url": "//assets.supremenewyork.com/170062/ca/AvwsFmpMh4Y.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/170062/rc/AvwsFmpMh4Y.jpg",
+                "price": 2800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 52,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Hanes® Crew Socks (4 Pack)",
+                "id": 172133,
+                "image_url": "//assets.supremenewyork.com/170065/ca/BZS36xl9-xA.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/170065/rc/BZS36xl9-xA.jpg",
+                "price": 2000,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 53,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Hanes® Boxer Briefs (4 Pack)",
+                "id": 172080,
+                "image_url": "//assets.supremenewyork.com/170068/ca/1Qpy3X3xKgc.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/170068/rc/1Qpy3X3xKgc.jpg",
+                "price": 3600,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 54,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "\"BLESSED” DVD",
+                "id": 172148,
+                "image_url": "//assets.supremenewyork.com/170170/ca/O6B6yXqa6OA.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/170170/rc/O6B6yXqa6OA.jpg",
+                "price": 2000,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 55,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Spitfire® Classic Wheels (Set of 4)",
+                "id": 172092,
+                "image_url": "//assets.supremenewyork.com/170071/ca/npJj2BRDVLk.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/170071/rc/npJj2BRDVLk.jpg",
+                "price": 3000,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 56,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Independent® Truck",
+                "id": 172158,
+                "image_url": "//assets.supremenewyork.com/170074/ca/CjKXT4HsgGc.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/170074/rc/CjKXT4HsgGc.jpg",
+                "price": 5000,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 57,
+                "category_name": "Accessories"
+            }
+        ],
+        "Pants": [
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Pinstripe Cargo Suit Pant",
+                "id": 172306,
+                "image_url": "//assets.supremenewyork.com/171579/ca/r2fMqG85qYM.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171579/rc/r2fMqG85qYM.jpg",
+                "price": 35800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 7,
+                "category_name": "Pants"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Fuck Racism Jean",
+                "id": 172290,
+                "image_url": "//assets.supremenewyork.com/171503/ca/486_KBdeiA4.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171503/rc/486_KBdeiA4.jpg",
+                "price": 17800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 8,
+                "category_name": "Pants"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Floral Print Sweatpant ",
+                "id": 172291,
+                "image_url": "//assets.supremenewyork.com/171463/ca/-eZbLwLsUU0.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171463/rc/-eZbLwLsUU0.jpg",
+                "price": 17800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 9,
+                "category_name": "Pants"
+            },
+            {
+                "name": "Velvet Flight Pant ",
+                "id": 172285,
+                "image_url": "//assets.supremenewyork.com/166462/ca/o82u8T4bvQQ.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/166462/rc/o82u8T4bvQQ.jpg",
+                "price": 18800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 33,
+                "category_name": "Pants"
+            },
+            {
+                "name": "Arc Logo Chino Pant ",
+                "id": 172243,
+                "image_url": "//assets.supremenewyork.com/169127/ca/QrII3btXZok.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169127/rc/QrII3btXZok.jpg",
+                "price": 14800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 34,
+                "category_name": "Pants"
+            },
+            {
+                "name": "Washed Regular Jean",
+                "id": 172142,
+                "image_url": "//assets.supremenewyork.com/167477/ca/ggzIVx4WYXU.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/167477/rc/ggzIVx4WYXU.jpg",
+                "price": 14800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 35,
+                "category_name": "Pants"
+            },
+            {
+                "name": "Work Pant ",
+                "id": 172130,
+                "image_url": "//assets.supremenewyork.com/169528/ca/YxAdpjX00f0.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169528/rc/YxAdpjX00f0.jpg",
+                "price": 11800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 36,
+                "category_name": "Pants"
+            },
+            {
+                "name": "Rigid Slim Jean",
+                "id": 172083,
+                "image_url": "//assets.supremenewyork.com/167546/ca/9qAEEhHzlWg.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/167546/rc/9qAEEhHzlWg.jpg",
+                "price": 15800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 37,
+                "category_name": "Pants"
+            },
+            {
+                "name": "Stone Washed Slim Jean",
+                "id": 172149,
+                "image_url": "//assets.supremenewyork.com/169893/ca/rXU9k4Ta5x4.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169893/rc/rXU9k4Ta5x4.jpg",
+                "price": 16800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 38,
+                "category_name": "Pants"
+            }
+        ],
+        "Bags": [
+            {
+                "name": "Backpack",
+                "id": 172113,
+                "image_url": "//assets.supremenewyork.com/169417/ca/dOS_erRrhBs.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169417/rc/dOS_erRrhBs.jpg",
+                "price": 15800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 44,
+                "category_name": "Bags"
+            },
+            {
+                "name": "Duffle Bag",
+                "id": 172145,
+                "image_url": "//assets.supremenewyork.com/169344/ca/i2jKYchG7M4.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169344/rc/i2jKYchG7M4.jpg",
+                "price": 15800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 45,
+                "category_name": "Bags"
+            },
+            {
+                "name": "Waist Bag",
+                "id": 172114,
+                "image_url": "//assets.supremenewyork.com/169328/ca/kDHC43mxEEw.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169328/rc/kDHC43mxEEw.jpg",
+                "price": 8800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 46,
+                "category_name": "Bags"
+            },
+            {
+                "name": "Shoulder Bag",
+                "id": 172094,
+                "image_url": "//assets.supremenewyork.com/169388/ca/BFcQGpZEYHc.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169388/rc/BFcQGpZEYHc.jpg",
+                "price": 8800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 47,
+                "category_name": "Bags"
+            },
+            {
+                "name": "Organizer Pouch ",
+                "id": 172161,
+                "image_url": "//assets.supremenewyork.com/168174/ca/u5H6fdVpask.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168174/rc/u5H6fdVpask.jpg",
+                "price": 4400,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 48,
+                "category_name": "Bags"
+            }
+        ],
+        "Shirts": [
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Flower Power Rayon Shirt",
+                "id": 172298,
+                "image_url": "//assets.supremenewyork.com/171508/ca/GeXv8KF3MfA.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171508/rc/GeXv8KF3MfA.jpg",
+                "price": 15800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 5,
+                "category_name": "Shirts"
+            },
+            {
+                "name": "Vertical Stripe S/S Shirt ",
+                "id": 172263,
+                "image_url": "//assets.supremenewyork.com/166164/ca/dJFuf4jg_u8.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/166164/rc/dJFuf4jg_u8.jpg",
+                "price": 11800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 20,
+                "category_name": "Shirts"
+            },
+            {
+                "name": "Guadalupe S/S Shirt ",
+                "id": 172214,
+                "image_url": "//assets.supremenewyork.com/168705/ca/R-a7nWjJA54.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168705/rc/R-a7nWjJA54.jpg",
+                "price": 14800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 21,
+                "category_name": "Shirts"
+            },
+            {
+                "name": "Stripe Twill Shirt ",
+                "id": 172175,
+                "image_url": "//assets.supremenewyork.com/168481/ca/DZoZUuFcqVU.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168481/rc/DZoZUuFcqVU.jpg",
+                "price": 12800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 22,
+                "category_name": "Shirts"
+            }
+        ],
+        "Jackets": [
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Double Breasted Plaid Faux Fur Coat ",
+                "id": 172311,
+                "image_url": "//assets.supremenewyork.com/171572/ca/xwGjm2FVS5w.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171572/rc/xwGjm2FVS5w.jpg",
+                "price": 48800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 0,
+                "category_name": "Jackets"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Pinstripe Double Breasted Blazer",
+                "id": 172288,
+                "image_url": "//assets.supremenewyork.com/171586/ca/dfOM6t1wsro.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171586/rc/dfOM6t1wsro.jpg",
+                "price": 49800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 1,
+                "category_name": "Jackets"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Fuck Racism Trucker Jacket ",
+                "id": 172309,
+                "image_url": "//assets.supremenewyork.com/171540/ca/GIExvbXBuoU.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171540/rc/GIExvbXBuoU.jpg",
+                "price": 26800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 2,
+                "category_name": "Jackets"
+            },
+            {
+                "name": " Supreme®/Jean Paul Gaultier® Reversible Backpack MA-1",
+                "id": 172308,
+                "image_url": "//assets.supremenewyork.com/171552/ca/hTWawQZNTm8.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171552/rc/hTWawQZNTm8.jpg",
+                "price": 36800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 3,
+                "category_name": "Jackets"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Pinstripe Cargo Suit Vest",
+                "id": 172295,
+                "image_url": "//assets.supremenewyork.com/171487/ca/iyztaZqaJCk.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171487/rc/iyztaZqaJCk.jpg",
+                "price": 38800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 4,
+                "category_name": "Jackets"
+            },
+            {
+                "name": "Supreme®/Schott® Leather Tanker Jacket ",
+                "id": 172272,
+                "image_url": "//assets.supremenewyork.com/166755/ca/PwYE57c0CIY.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/166755/rc/PwYE57c0CIY.jpg",
+                "price": 69800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 17,
+                "category_name": "Jackets"
+            },
+            {
+                "name": "Cheetah Hooded Station Jacket",
+                "id": 172249,
+                "image_url": "//assets.supremenewyork.com/168587/ca/wFoHQwdeKkk.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168587/rc/wFoHQwdeKkk.jpg",
+                "price": 19800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 18,
+                "category_name": "Jackets"
+            },
+            {
+                "name": "GORE-TEX Hooded Harrington Jacket",
+                "id": 172211,
+                "image_url": "//assets.supremenewyork.com/171115/ca/mF0_7KCFF-Q.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171115/rc/mF0_7KCFF-Q.jpg",
+                "price": 34800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 19,
+                "category_name": "Jackets"
+            }
+        ],
+        "Tops/Sweaters": [
+            {
+                "name": "Textured Pattern Sweater ",
+                "id": 172301,
+                "image_url": "//assets.supremenewyork.com/169283/ca/O2-zUFoNRlc.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169283/rc/O2-zUFoNRlc.jpg",
+                "price": 15800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 23,
+                "category_name": "Tops/Sweaters"
+            },
+            {
+                "name": "Jacquard Logo Baseball Jersey",
+                "id": 172296,
+                "image_url": "//assets.supremenewyork.com/167376/ca/tAF1m8OC0g8.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/167376/rc/tAF1m8OC0g8.jpg",
+                "price": 11800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 27,
+                "category_name": "Tops/Sweaters"
+            },
+            {
+                "name": "Text Stripe Jacquard S/S Top",
+                "id": 172307,
+                "image_url": "//assets.supremenewyork.com/168962/ca/q1NeqTiY20I.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168962/rc/q1NeqTiY20I.jpg",
+                "price": 9800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 28,
+                "category_name": "Tops/Sweaters"
+            },
+            {
+                "name": "International L/S Tee",
+                "id": 172303,
+                "image_url": "//assets.supremenewyork.com/166329/ca/K8fWss8kjjQ.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/166329/rc/K8fWss8kjjQ.jpg",
+                "price": 9800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 29,
+                "category_name": "Tops/Sweaters"
+            },
+            {
+                "name": "Grid Jacquard S/S Top",
+                "id": 172261,
+                "image_url": "//assets.supremenewyork.com/168856/ca/Jh4xdu-Ru1k.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168856/rc/Jh4xdu-Ru1k.jpg",
+                "price": 8800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 30,
+                "category_name": "Tops/Sweaters"
+            }
+        ],
+        "Sweatshirts": [
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Floral Print Hooded Sweatshirt ",
+                "id": 172300,
+                "image_url": "//assets.supremenewyork.com/171546/ca/4yeEMYDfe2o.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171546/rc/4yeEMYDfe2o.jpg",
+                "price": 22800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 6,
+                "category_name": "Sweatshirts"
+            },
+            {
+                "name": "Chain Logo Crewneck ",
+                "id": 172294,
+                "image_url": "//assets.supremenewyork.com/168922/ca/2kSg13lSeYk.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168922/rc/2kSg13lSeYk.jpg",
+                "price": 13800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 24,
+                "category_name": "Sweatshirts"
+            },
+            {
+                "name": "Gonz Embroidered Map Hooded Sweatshirt ",
+                "id": 172264,
+                "image_url": "//assets.supremenewyork.com/168814/ca/ib9bKYNFxBw.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168814/rc/ib9bKYNFxBw.jpg",
+                "price": 24800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 25,
+                "category_name": "Sweatshirts"
+            },
+            {
+                "name": "Chest Stripe Logo Hooded Sweatshirt ",
+                "id": 172277,
+                "image_url": "//assets.supremenewyork.com/168032/ca/k2IzE5ZJMvY.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168032/rc/k2IzE5ZJMvY.jpg",
+                "price": 15800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 26,
+                "category_name": "Sweatshirts"
+            }
+        ],
+        "Hats": [
+            {
+                "name": "Washed Out Camo Camp Cap",
+                "id": 172293,
+                "image_url": "//assets.supremenewyork.com/166376/ca/jj62EgLLiMI.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/166376/rc/jj62EgLLiMI.jpg",
+                "price": 4800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 39,
+                "category_name": "Hats"
+            },
+            {
+                "name": "Oval Label 6-Panel",
+                "id": 172310,
+                "image_url": "//assets.supremenewyork.com/168958/ca/Ya1J9eN1wXw.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168958/rc/Ya1J9eN1wXw.jpg",
+                "price": 4400,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 41,
+                "category_name": "Hats"
+            },
+            {
+                "name": "Star Pillbox New Era®",
+                "id": 172312,
+                "image_url": "//assets.supremenewyork.com/171717/ca/Ro0oeVmzMT4.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171717/rc/Ro0oeVmzMT4.jpg",
+                "price": 5800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 43,
+                "category_name": "Hats"
+            },
+            {
+                "name": "Splatter Camp Cap",
+                "id": 172267,
+                "image_url": "//assets.supremenewyork.com/166833/ca/okDGfXQbw38.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/166833/rc/okDGfXQbw38.jpg",
+                "price": 4800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 40,
+                "category_name": "Hats"
+            },
+            {
+                "name": "Chenille Logo 6-Panel",
+                "id": 172273,
+                "image_url": "//assets.supremenewyork.com/169570/ca/XWwbnJfyL_0.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169570/rc/XWwbnJfyL_0.jpg",
+                "price": 4800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 42,
+                "category_name": "Hats"
+            }
+        ],
+        "T-Shirts": [
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Tee ",
+                "id": 172304,
+                "image_url": "//assets.supremenewyork.com/171569/ca/agT3slMfoIM.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171569/rc/agT3slMfoIM.jpg",
+                "price": 5400,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 10,
+                "category_name": "T-Shirts"
+            },
+            {
+                "name": "Headline Tee",
+                "id": 172274,
+                "image_url": "//assets.supremenewyork.com/171348/ca/kklKgQ3HhLg.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171348/rc/kklKgQ3HhLg.jpg",
+                "price": 3800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 31,
+                "category_name": "T-Shirts"
+            },
+            {
+                "name": "Keyboard Tee",
+                "id": 172269,
+                "image_url": "//assets.supremenewyork.com/171368/ca/HMu74oKIMyo.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171368/rc/HMu74oKIMyo.jpg",
+                "price": 3800,
+                "sale_price": 0,
+                "new_item": false,
+                "position": 32,
+                "category_name": "T-Shirts"
+            }
+        ],
+        "Shoes": [
+            {
+                "name": "Supreme®/Vans® Jean Paul Gaultier® Floral Print Era Pro",
+                "id": 172289,
+                "image_url": "//assets.supremenewyork.com/171752/ca/oHYK2wdjH4Q.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171752/rc/oHYK2wdjH4Q.jpg",
+                "price": 10800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 11,
+                "category_name": "Shoes"
+            },
+            {
+                "name": "Supreme®/Vans® Jean Paul Gaultier® Floral Print Chukka Pro",
+                "id": 172299,
+                "image_url": "//assets.supremenewyork.com/171529/ca/aGJ8UDJNres.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171529/rc/aGJ8UDJNres.jpg",
+                "price": 11800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 12,
+                "category_name": "Shoes"
+            }
+        ],
+        "new": [
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Pinstripe Double Breasted Blazer",
+                "id": 172288,
+                "image_url": "//assets.supremenewyork.com/171586/ca/dfOM6t1wsro.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171586/rc/dfOM6t1wsro.jpg",
+                "price": 49800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 1,
+                "category_name": "Jackets"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Pinstripe Cargo Suit Vest",
+                "id": 172295,
+                "image_url": "//assets.supremenewyork.com/171487/ca/iyztaZqaJCk.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171487/rc/iyztaZqaJCk.jpg",
+                "price": 38800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 4,
+                "category_name": "Jackets"
+            },
+            {
+                "name": " Supreme®/Jean Paul Gaultier® Reversible Backpack MA-1",
+                "id": 172308,
+                "image_url": "//assets.supremenewyork.com/171552/ca/hTWawQZNTm8.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171552/rc/hTWawQZNTm8.jpg",
+                "price": 36800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 3,
+                "category_name": "Jackets"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Fuck Racism Trucker Jacket ",
+                "id": 172309,
+                "image_url": "//assets.supremenewyork.com/171540/ca/GIExvbXBuoU.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171540/rc/GIExvbXBuoU.jpg",
+                "price": 26800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 2,
+                "category_name": "Jackets"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Double Breasted Plaid Faux Fur Coat ",
+                "id": 172311,
+                "image_url": "//assets.supremenewyork.com/171572/ca/xwGjm2FVS5w.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171572/rc/xwGjm2FVS5w.jpg",
+                "price": 48800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 0,
+                "category_name": "Jackets"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Flower Power Rayon Shirt",
+                "id": 172298,
+                "image_url": "//assets.supremenewyork.com/171508/ca/GeXv8KF3MfA.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171508/rc/GeXv8KF3MfA.jpg",
+                "price": 15800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 5,
+                "category_name": "Shirts"
+            },
+            {
+                "name": "Jacquard Logo Baseball Jersey",
+                "id": 172296,
+                "image_url": "//assets.supremenewyork.com/167376/ca/tAF1m8OC0g8.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/167376/rc/tAF1m8OC0g8.jpg",
+                "price": 11800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 27,
+                "category_name": "Tops/Sweaters"
+            },
+            {
+                "name": "Textured Pattern Sweater ",
+                "id": 172301,
+                "image_url": "//assets.supremenewyork.com/169283/ca/O2-zUFoNRlc.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/169283/rc/O2-zUFoNRlc.jpg",
+                "price": 15800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 23,
+                "category_name": "Tops/Sweaters"
+            },
+            {
+                "name": "International L/S Tee",
+                "id": 172303,
+                "image_url": "//assets.supremenewyork.com/166329/ca/K8fWss8kjjQ.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/166329/rc/K8fWss8kjjQ.jpg",
+                "price": 9800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 29,
+                "category_name": "Tops/Sweaters"
+            },
+            {
+                "name": "Text Stripe Jacquard S/S Top",
+                "id": 172307,
+                "image_url": "//assets.supremenewyork.com/168962/ca/q1NeqTiY20I.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168962/rc/q1NeqTiY20I.jpg",
+                "price": 9800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 28,
+                "category_name": "Tops/Sweaters"
+            },
+            {
+                "name": "Chain Logo Crewneck ",
+                "id": 172294,
+                "image_url": "//assets.supremenewyork.com/168922/ca/2kSg13lSeYk.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168922/rc/2kSg13lSeYk.jpg",
+                "price": 13800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 24,
+                "category_name": "Sweatshirts"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Floral Print Hooded Sweatshirt ",
+                "id": 172300,
+                "image_url": "//assets.supremenewyork.com/171546/ca/4yeEMYDfe2o.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171546/rc/4yeEMYDfe2o.jpg",
+                "price": 22800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 6,
+                "category_name": "Sweatshirts"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Fuck Racism Jean",
+                "id": 172290,
+                "image_url": "//assets.supremenewyork.com/171503/ca/486_KBdeiA4.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171503/rc/486_KBdeiA4.jpg",
+                "price": 17800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 8,
+                "category_name": "Pants"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Floral Print Sweatpant ",
+                "id": 172291,
+                "image_url": "//assets.supremenewyork.com/171463/ca/-eZbLwLsUU0.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171463/rc/-eZbLwLsUU0.jpg",
+                "price": 17800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 9,
+                "category_name": "Pants"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Pinstripe Cargo Suit Pant",
+                "id": 172306,
+                "image_url": "//assets.supremenewyork.com/171579/ca/r2fMqG85qYM.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171579/rc/r2fMqG85qYM.jpg",
+                "price": 35800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 7,
+                "category_name": "Pants"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Tee ",
+                "id": 172304,
+                "image_url": "//assets.supremenewyork.com/171569/ca/agT3slMfoIM.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171569/rc/agT3slMfoIM.jpg",
+                "price": 5400,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 10,
+                "category_name": "T-Shirts"
+            },
+            {
+                "name": "Washed Out Camo Camp Cap",
+                "id": 172293,
+                "image_url": "//assets.supremenewyork.com/166376/ca/jj62EgLLiMI.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/166376/rc/jj62EgLLiMI.jpg",
+                "price": 4800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 39,
+                "category_name": "Hats"
+            },
+            {
+                "name": "Oval Label 6-Panel",
+                "id": 172310,
+                "image_url": "//assets.supremenewyork.com/168958/ca/Ya1J9eN1wXw.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/168958/rc/Ya1J9eN1wXw.jpg",
+                "price": 4400,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 41,
+                "category_name": "Hats"
+            },
+            {
+                "name": "Star Pillbox New Era®",
+                "id": 172312,
+                "image_url": "//assets.supremenewyork.com/171717/ca/Ro0oeVmzMT4.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171717/rc/Ro0oeVmzMT4.jpg",
+                "price": 5800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 43,
+                "category_name": "Hats"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Le Male",
+                "id": 172292,
+                "image_url": "//assets.supremenewyork.com/171495/ca/XkjHyc58W1o.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171495/rc/XkjHyc58W1o.jpg",
+                "price": 9000,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 16,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Schott® Leather Holster",
+                "id": 172297,
+                "image_url": "//assets.supremenewyork.com/171591/ca/XtBMHfLxiGM.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171591/rc/XtBMHfLxiGM.jpg",
+                "price": 39800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 13,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Sunglasses",
+                "id": 172302,
+                "image_url": "//assets.supremenewyork.com/171482/ca/IJqAzI_b9Rk.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171482/rc/IJqAzI_b9Rk.jpg",
+                "price": 38800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 14,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Jean Paul Gaultier® Belt",
+                "id": 172305,
+                "image_url": "//assets.supremenewyork.com/171475/ca/nxJ9DZNRGgc.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171475/rc/nxJ9DZNRGgc.jpg",
+                "price": 16800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 15,
+                "category_name": "Accessories"
+            },
+            {
+                "name": "Supreme®/Vans® Jean Paul Gaultier® Floral Print Era Pro",
+                "id": 172289,
+                "image_url": "//assets.supremenewyork.com/171752/ca/oHYK2wdjH4Q.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171752/rc/oHYK2wdjH4Q.jpg",
+                "price": 10800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 11,
+                "category_name": "Shoes"
+            },
+            {
+                "name": "Supreme®/Vans® Jean Paul Gaultier® Floral Print Chukka Pro",
+                "id": 172299,
+                "image_url": "//assets.supremenewyork.com/171529/ca/aGJ8UDJNres.jpg",
+                "image_url_hi": "//assets.supremenewyork.com/171529/rc/aGJ8UDJNres.jpg",
+                "price": 11800,
+                "sale_price": 0,
+                "new_item": true,
+                "position": 12,
+                "category_name": "Shoes"
+            }
+        ]
+    },
+    "last_mobile_api_update": "2015-02-06T14:47:32.034-05:00",
+    "release_date": "04/11/2019",
+    "release_week": "7SS19"
+}
