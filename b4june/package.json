@@ -16,5 +16,10 @@
     "url": "https://github.com/sskenner/nodejs_tut/issues"
   },
   "homepage": "https://github.com/sskenner/nodejs_tut#readme",
-  "dependencies": {}
+  "dependencies": {
+    "cron": "^1.7.1",
+    "puppeteer": "^1.17.0",
+    "request": "^2.88.0"
+  },
+  "keywords": []
 }
